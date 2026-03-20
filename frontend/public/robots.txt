@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+Disallow: /api/
+Sitemap: https://ohranatrud.pro/sitemap.xml

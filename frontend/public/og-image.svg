@@ -1,0 +1,22 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+    <rect width="1200" height="630" fill="#0F172A"/>
+    <rect x="0" y="0" width="1200" height="630" fill="url(#bg)"/>
+    <defs>
+        <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#1E3A8A"/>
+            <stop offset="100%" stop-color="#0F172A"/>
+        </linearGradient>
+    </defs>
+    <circle cx="900" cy="150" r="300" fill="#2563EB" opacity="0.08"/>
+    <circle cx="200" cy="500" r="200" fill="#2563EB" opacity="0.05"/>
+
+    <!-- Logo icon -->
+    <rect x="80" y="200" width="72" height="72" rx="16" fill="#2563EB"/>
+    <path d="M100 228h32l16 16v20a4 4 0 01-4 4h-44a4 4 0 01-4-4v-32a4 4 0 014-4z" fill="white" opacity="0.2"/>
+    <path d="M112 242h24M112 250h24M112 258h18" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+
+    <!-- Title -->
+    <text x="80" y="330" font-family="system-ui, -apple-system, sans-serif" font-size="64" font-weight="800" fill="white">ОхранаТруда.PRO</text>
+    <text x="80" y="395" font-family="system-ui, -apple-system, sans-serif" font-size="32" fill="#94A3B8">Справочные материалы и шаблоны документов</text>
+    <text x="80" y="450" font-family="system-ui, -apple-system, sans-serif" font-size="24" fill="#64748B">500+ документов · Поиск · Редактор · Авторизация через Telegram</text>
+</svg>
